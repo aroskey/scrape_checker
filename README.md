@@ -43,17 +43,6 @@ SCRAPING IS ALLOWED IN (https://example.com) FOR USER AGENT '*' ✅
 SCRAPING IS NOT ALLOWED IN https://example.com FOR USER AGENT '*' ⛔
 ```
 
-## How It Works
-
-| Step | Description                                         |
-| ---- | --------------------------------------------------- |
-| 1    | Takes a base URL and appends `/robots.txt`          |
-| 2    | Fetches and parses the file using `RobotFileParser` |
-| 3    | Calls `can_fetch()` with the provided user agent    |
-| 4    | Prints whether scraping is permitted                |
-
----
-
 ## Notes
 
 - The example URL (`https://fatdevadi.com`) in the script is a placeholder replace it with a valid URL before running it dummie
