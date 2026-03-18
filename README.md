@@ -48,3 +48,4 @@ SCRAPING IS NOT ALLOWED IN https://example.com FOR USER AGENT '*' ⛔
 - The example URL (`https://fatdevadi.com`) in the script is a placeholder replace it with a valid URL before running it dummie
 - A `*` user agent applies the check to all bots Use a specific user agent string (e.g `"Googlebot"`) to check for a named crawler
 - This tool only checks `robots.txt` rules soo beware
+- To keep your global python clean install dependencies inside python virtual environment 
