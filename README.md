@@ -1,4 +1,4 @@
-# 🤖 Robots.txt Scrape Checker
+# 🤖 Robots.txt, Scrape Checker
 
 Legal web scraping checker via robots.txt
 
