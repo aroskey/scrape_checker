@@ -217,21 +217,6 @@ The tool gracefully handles:
 - ⏱️ Request timeouts
 - 🔍 Malformed URLs
 
-## Best Practices
-
-✅ **Do:**
-- Respect `crawl_delay` values specified in robots.txt
-- Check robots.txt before starting any scraping project
-- Use appropriate user agent strings
-- Cache results to avoid repeated requests
-- Handle errors gracefully
-
-❌ **Don't:**
-- Ignore robots.txt restrictions
-- Use overly aggressive crawling patterns
-- Pretend to be a major search engine if you're not
-- Bypass robots.txt intentionally
-
 ## Security Notes
 
 ⚠️ **Important:**
