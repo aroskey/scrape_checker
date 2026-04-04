@@ -236,7 +236,3 @@ This tool is provided for educational and compliance purposes. Users are respons
 - Respecting robots.txt files and crawl delays
 - Using this tool ethically and legally
 - Following applicable laws and regulations
-
-## Support
-
-For issues, questions, or suggestions, please open a GitHub Issue or contact the maintainer.
